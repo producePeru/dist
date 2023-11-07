@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,b as r}from"./index-2890f88a.js";const s={};function a(c,l){return o(),r("h2",null,"klakaskakslsllsl")}const _=e(s,[["render",a]]);export{_ as default};
