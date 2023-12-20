@@ -1,1 +1,0 @@
-import{_ as s}from"./_plugin-vue_export-helper-c27b6911.js";import{b as t,o as a,B as c,w as o}from"./index-9de93fa8.js";const _={};function r(n,p){const e=t("a-result");return a(),c(e,{status:"success",title:"¡Gracias por participar de este formulario!","sub-title":""},{extra:o(()=>[]),_:1})}const l=s(_,[["render",r],["__scopeId","data-v-b05aa56f"]]);export{l as default};
