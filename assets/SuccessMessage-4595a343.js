@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";import{b as s,o as t,B as o}from"./index-da4b24a2.js";const c={};function a(n,l){const e=s("a-result");return t(),o(e,{status:"success",title:"¡Gracias por participar de este formulario!","sub-title":"Se te enviará un correo incluyendo el link del taller"})}const _=r(c,[["render",a]]);export{_ as default};
