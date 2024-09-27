@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/storage-78cc73e2.js
-import{C as c}from"./index-e39b76b0.js";const a=localStorage.getItem("eToken"),n=localStorage.getItem("eProfile"),l=localStorage.getItem("eRole"),p=localStorage.getItem("eEmail"),i=localStorage.getItem("views"),e=(s,t)=>{try{const o=c.AES.decrypt(s,t).toString(c.enc.Utf8);return o?JSON.parse(o):null}catch(r){return console.error(`Error decrypting data with key ${t}:`,r),null}};a&&e(a,"appToken");n&&e(n,"appProfile");l&&e(l,"appRole");p&&e(p,"appEmail");i&&e(i,"appvistas");
-========
-import{C as c}from"./index-19dbe2bd.js";const a=localStorage.getItem("eToken"),n=localStorage.getItem("eProfile"),l=localStorage.getItem("eRole"),p=localStorage.getItem("eEmail"),i=localStorage.getItem("views"),e=(s,t)=>{try{const o=c.AES.decrypt(s,t).toString(c.enc.Utf8);return o?JSON.parse(o):null}catch(r){return console.error(`Error decrypting data with key ${t}:`,r),null}};a&&e(a,"appToken");n&&e(n,"appProfile");l&&e(l,"appRole");p&&e(p,"appEmail");i&&e(i,"appvistas");
->>>>>>>> 347ce2e7ca39fef6af8cd206fc74f6fcc9494d9b:assets/storage-d11e5304.js
