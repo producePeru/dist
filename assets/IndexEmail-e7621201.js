@@ -1,0 +1,1 @@
+import{o as t,d as n,e as s}from"./index-4571068f.js";const l={__name:"IndexEmail",setup(a){return(o,e)=>(t(),n("section",null,e[0]||(e[0]=[s("h3",{class:"title-produce"},"ENVIAR CORREOS MASIVOS",-1)])))}};export{l as default};
