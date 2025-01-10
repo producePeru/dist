@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as n,a5 as t,a6 as s}from"./quill-blot-formatter-c388fac3.js";const _={},a={class:"fof"};function r(c,e){return n(),t("div",a,e[0]||(e[0]=[s("h1",null,"Página 404",-1)]))}const l=o(_,[["render",r]]);export{l as default};
