@@ -1,1 +1,0 @@
-import{V as l}from"./main-05a9da76.js";import{r,o as t,p as n,h as s}from"./index-c29bea81.js";import"./quill-blot-formatter-0b7ee680.js";const f={__name:"SalaReuniones",setup(u){const e=r();return(m,a)=>(t(),n(s(l),{modelValue:e.value,"onUpdate:modelValue":a[0]||(a[0]=o=>e.value=o),locale:"es"},null,8,["modelValue"]))}};export{f as default};
