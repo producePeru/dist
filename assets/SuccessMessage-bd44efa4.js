@@ -1,1 +1,0 @@
-import{c as u}from"./index-0eb75d9d.js";import{r as o,o as r,c as a,u as e}from"./quill-blot-formatter-6fa41065.js";const p={__name:"SuccessMessage",setup(c){const t=u();return(l,n)=>{const s=o("a-result");return r(),a(s,{status:e(t).query.status,title:e(t).query.title,"sub-title":e(t).query.subTitle},null,8,["status","title","sub-title"])}}};export{p as default};
