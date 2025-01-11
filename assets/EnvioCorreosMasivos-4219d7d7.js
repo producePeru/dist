@@ -1,1 +1,0 @@
-import{Q as r}from"./vue-quill.esm-bundler-52785974.js";import{B as t}from"./quill-blot-formatter-0b7ee680.js";import{o as e,p as s,h as a}from"./index-cd25fe32.js";const p={__name:"EnvioCorreosMasivos",setup(l){const o={name:"blotFormatter",module:t,options:{}};return(m,n)=>(e(),s(a(r),{modules:o,toolbar:"full"}))}};export{p as default};
