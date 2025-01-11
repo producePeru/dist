@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,d as r}from"./index-cceb4f23.js";import"./quill-blot-formatter-e18a970d.js";const t={};function n(c,a){return o(),r("h1",null,"unauthorized")}const i=e(t,[["render",n]]);export{i as default};
