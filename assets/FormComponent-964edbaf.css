@@ -1,0 +1,1 @@
+.select-notaries{display:flex;flex-direction:column}.select-notaries .name{margin-bottom:.15rem;font-weight:500;font-size:15px;color:var(--secondary)}.select-notaries .city{color:var(--primary);display:block;margin-bottom:.2rem}.select-notaries .city,.select-notaries .address{font-size:12px;line-height:1.2}
