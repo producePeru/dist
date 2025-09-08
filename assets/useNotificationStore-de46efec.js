@@ -1,0 +1,1 @@
+import{U as o,m as e}from"./index-5add7621.js";const s=o("notifications",{state:()=>({count:0}),actions:{async fetchCount(){const t=await e({url:"token/how-many-alerts",method:"GET"});t&&(this.count=t.count)},async resetCount(){this.count=0}}});export{s as u};
