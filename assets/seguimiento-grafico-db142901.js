@@ -1,0 +1,1 @@
+import{C as e}from"./PointStyling-fcdfcd06.js";import{o,d as r,c as t}from"./index-3f88e443.js";import"./auto-ba4ecebb.js";import"./_plugin-vue_export-helper-c27b6911.js";const _={__name:"seguimiento-grafico",setup(a){return(c,n)=>(o(),r("div",null,[t(e)]))}};export{_ as default};
