@@ -1,0 +1,1 @@
+.usuarios-pnte .component-table{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1rem}.usuarios-pnte .component-table .ant-form-item:nth-child(8){grid-column:1/3}.ugo-cde{width:100%}.ugo-cde .ant-select-selection-item{font-size:13px}
