@@ -1,0 +1,1 @@
+.email-wrapper{display:grid;grid-template-columns:400px 1fr;gap:2.5rem}.email-list{height:calc(100vh - 305px);overflow:auto}
