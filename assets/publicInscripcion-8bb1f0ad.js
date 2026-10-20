@@ -1,0 +1,1 @@
+function c(){const o="https://soportepnte.com",t="http://localhost:3000";return["localhost","127.0.0.1"].includes(window.location.hostname)?t:o}function n(){const o="https://capacitaciones.soportepnte.com",t="http://localhost:5174";return["localhost","127.0.0.1"].includes(window.location.hostname)?t:o}export{c as g,n as r};
