@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,B as r}from"./vendor-antd-d2c2d6b1.js";const t={};function n(c,a){return o(),r("h1",null,"unauthorized")}const f=e(t,[["render",n]]);export{f as default};
